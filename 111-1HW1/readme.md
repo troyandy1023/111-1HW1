@@ -1,5 +1,5 @@
 ﻿# 第1次作業題目-作業-HW1
-[deadline 期末前兩周](#)
+[deadline 2022/09/28 00:00:00](#)
 >撰寫前請注意
 
 1. 請[點選](https://github.com/altoliaw3/111-1HW1.git)該連結連結至題目之倉庫，並對該倉庫進行fork
