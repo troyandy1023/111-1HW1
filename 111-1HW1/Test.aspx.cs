@@ -11,13 +11,13 @@ namespace _111_1HW1
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            Response.Write("Hallo App");
+            Response.Write("Hello App");
         }
 
         protected void Button1_Click(object sender, EventArgs e)
         {
-            Response.Write("Hallo Button");
-            Label1.Text = "Hallo Button";
+            Response.Write("Hello Button");
+            Label1.Text = "Hello Button";
         }
     }
 }
